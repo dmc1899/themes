@@ -1,0 +1,10 @@
+{
+  "name" : "Other",
+  "description" : "Other icons outside of the core hyper-scale Cloud providers.",
+  "elements" : [ {
+    "tag" : "Apache - Airflow",
+    "stroke" : "#693cc5",
+    "color" : "#693cc5",
+    "icon" : "https://raw.githubusercontent.com/structurizr/themes/master/amazon-web-services/Amazon-Kinesis-Data-Analytics_light-bg@4x.png"
+  } ]
+}
