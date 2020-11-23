@@ -3,8 +3,8 @@
   "description" : "Other icons outside of the core hyper-scale Cloud providers.",
   "elements" : [ {
     "tag" : "Apache - Airflow",
-    "stroke" : "#693cc5",
-    "color" : "#693cc5",
+    "stroke" : "#d6242d",
+    "color" : "#d6242d",
     "icon" : "https://raw.githubusercontent.com/dmc1899/themes/feature/add-other-theme/other/airflow-png.png"
   } ]
 }
