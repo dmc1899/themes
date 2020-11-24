@@ -1,0 +1,10 @@
+{
+  "name" : "Oracle Corporation",
+  "description" : "Iconsets for Oracle corporation products.",
+  "elements" : [ {
+    "tag" : "Java",
+    "stroke" : "#f59642",
+    "color" : "#f59642",
+    "icon" : "https://raw.githubusercontent.com/dmc1899/themes/master/oracle-corporation/Java_light_bg.png"
+  } ]
+}

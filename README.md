@@ -50,3 +50,10 @@ This theme includes element styles with icons for each of the Python Software Fo
 
 - [Theme browser - TODO](https://structurizr.com/help/themes)
 - [JSON](https://raw.githubusercontent.com/structurizr/themes/master/python-software-foundation/theme.json)
+
+## Oracle Corporation
+
+This theme includes element styles with icons for each of the Oracle corporation products.
+
+- [Theme browser - TODO](https://structurizr.com/help/themes)
+- [JSON](https://raw.githubusercontent.com/structurizr/themes/master/oracle-corporation/theme.json)
